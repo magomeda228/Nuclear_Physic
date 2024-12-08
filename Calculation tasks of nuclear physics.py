@@ -27,7 +27,7 @@ class Nuclear:
         print(f"e_p = {mp + mae * self.M11 - self.Ma * mae:.2f}, Mev")
         return 0
     def E_alpha(self):
-        print(f"e_a = {ma + self.M42 * mae - self.Ma * mae :.2f}")
+        print(f"e_a = {ma + self.M42 * mae - self.Ma * mae :.2f}, Mev")
         return 0
 
     
