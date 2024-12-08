@@ -1,6 +1,5 @@
-This is a Python script that defines a class Nuclear to model nuclear isotopes and calculate energies associated with neutrons, protons, and alpha particles. Here's what each part does, explained for a GitHub repository:
+This is a Python script that defines a class Nuclear to model nuclear isotopes and calculate energies associated with neutrons, protons, and alpha particles. 
 
-1. File Overview:
 This file contains a Python class that calculates various energy values for different isotopes, such as:
 
 Binding energy per nucleon
